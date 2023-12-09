@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Thendoni
+- 👋 Hi, I’m @Thendo Mabada
 - 👀 I’m interested in Java,C++,Visual Basic
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on any Hackthron activities
